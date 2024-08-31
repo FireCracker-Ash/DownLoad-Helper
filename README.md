@@ -4,4 +4,4 @@ A picture downloader
 
  - Automatically set file name
    
- - ﻿Excellent error prompts and automatic retries
+ - Effective error prompts and automatic retries
